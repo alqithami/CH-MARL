@@ -74,7 +74,7 @@ Future directions for CH-MARL include:
 - Shi, H. et al. (2020). Multi-agent coordination under global constraints.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed for non-commercial academic use only. For commercial applications, contact the authors for licensing terms.
 
 ## Acknowledgments
 Special thanks to the contributors and collaborators who made this work possible.
