@@ -29,8 +29,8 @@ Key features of CH-MARL:
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/alqithami/CH_MARL.git
-   cd chmarl
+   git clone https://github.com/alqithami/CH-MARL.git
+   cd CH-MARL
    ```
 2. Create and activate a virtual environment:
    ```bash
@@ -45,7 +45,7 @@ Key features of CH-MARL:
 ### Running Experiments
 To train and validate the CH-MARL framework:
 ```bash
-python src/train_chmarl.py
+python src/synthetic_maritime.py
 ```
 Generated results, including fairness metrics and resource utilization graphs, will be saved in the `results/` directory.
 
