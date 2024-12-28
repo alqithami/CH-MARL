@@ -45,7 +45,7 @@ Key features of CH-MARL:
 ### Running Experiments
 To train and validate the CH-MARL framework:
 ```bash
-python src/synthetic_maritime.py
+python src/chmarl.py
 ```
 Generated results, including fairness metrics and resource utilization graphs, will be saved in the `results/` directory.
 
